@@ -1,1 +1,2 @@
-# Race-Game-AI
+Race Game AI
+This project is a simple AI-driven race game built using Python and TensorFlow. The game simulates a car navigating a track with obstacles, and the AI agent learns to steer, accelerate, and brake to avoid collisions and reach the finish line using a deep Q-learning algorithm. The game environment is visualized using Tkinter, displaying the car's position, obstacles, fuel level, and the total reward earned during each episode. The AI model is trained over multiple episodes, and the progress is visualized in real-time. The trained model is saved periodically, allowing for further analysis or continued training.
